@@ -66,15 +66,7 @@
 
 ---
 
-## GitHub Stats
 
-<div align="center">
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schwarmak-dev&theme=github_dark)](https://github.com/schwarmak-dev)
- 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schwarmak-dev&theme=github_dark)](https://github.com/schwarmak-dev)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schwarmak-dev&theme=github_dark)](https://github.com/schwarmak-dev)
- 
-</div>
 ---
 
 <div align="center">
