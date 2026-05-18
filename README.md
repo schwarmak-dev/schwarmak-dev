@@ -69,11 +69,12 @@
 ## GitHub Stats
 
 <div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schwarmak-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=6e93d6&text_color=cccccc&langs_count=6)
-
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=schwarmak-dev&theme=github_dark)](https://github.com/schwarmak-dev)
+ 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=schwarmak-dev&theme=github_dark)](https://github.com/schwarmak-dev)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=schwarmak-dev&theme=github_dark)](https://github.com/schwarmak-dev)
+ 
 </div>
-
 ---
 
 <div align="center">
