@@ -69,10 +69,9 @@
 
 ## GitHub Stats
 
-  <div align="center">
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=schwarmak-dev&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schwarmak-dev&layout=compact&hide_border=true&theme=default)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=schwarmak-dev&theme=minimal&hide_border=true)
 
 </div>
 
