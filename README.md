@@ -1,7 +1,7 @@
 <div align="center">
 
 # Matías Schwarmak
-### Full Stack Developer · Concepción, Chile 🇨🇱
+### Developer · Concepción, Chile 🇨🇱
 
 *Estudiante de Informática y Telecomunicaciones — construyendo herramientas reales para problemas reales*
 
@@ -15,7 +15,7 @@
 ## Sobre mí
 
 - 🎓 Estudiando **Informática y Telecomunicaciones** en DUOC UC
-- 💼 Práctico profesional en **Servicios de Seguridad Privada SpA** — Concepción
+- 💼 Actualmente haciendo la práctica en **Servicios de Seguridad Privada SpA**
 - 🔭 Actualmente construyendo sistemas de inspección de equipos y monitoreo IoT
 - 🌱 Explorando **Node-RED**, **MQTT**, y automatización industrial
 - ⚡ Me gusta conectar el mundo físico con el software
@@ -38,15 +38,21 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 
-**Bases de datos & Cloud**
+**Bases de datos**
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
 
 **IoT & Automatización**
 
 ![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+
+**Linux & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=gnometerminal&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 ---
 
