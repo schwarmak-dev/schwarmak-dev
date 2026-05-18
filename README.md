@@ -72,9 +72,6 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=schwarmak-dev&hide_border=true&background=00000000&ring=6e93d6&fire=6e93d6&currStreakLabel=aaaaaa&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=6e93d6)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schwarmak-dev&layout=donut&hide_border=true&bg_color=00000000&langs_count=6&title_color=aaaaaa&text_color=ffffff)
-
 </div>
 
 ---
