@@ -71,7 +71,9 @@
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=schwarmak-dev&theme=minimal&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=schwarmak-dev&hide_border=true&background=00000000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=schwarmak-dev&layout=donut&hide_border=true&bg_color=00000000&langs_count=6)
 
 </div>
 
