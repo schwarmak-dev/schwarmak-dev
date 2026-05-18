@@ -2,7 +2,6 @@
 
 # Matías Schwarmak
 ### Developer · Concepción, Chile 🇨🇱
-
 *Estudiante de Informática y Telecomunicaciones — construyendo herramientas reales para problemas reales*
 
 [![GitHub followers](https://img.shields.io/github/followers/schwarmak-dev?label=Followers&style=flat-square&color=0e75b6)](https://github.com/schwarmak-dev)
@@ -60,10 +59,10 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| 🔒 **Formulario SSP** | Sistema de inspección de equipos para Planta Santa Fe con roles, panel admin y generación de IDs | Node.js · Vanilla JS |
+| 🔒 **Formulario SSP** | Sistema de inspección de equipos para empresa de seguridad industrial — roles, panel admin y generación de IDs | Node.js · Vanilla JS |
 | 📱 **App Técnicos** | App móvil para técnicos de terreno — órdenes de trabajo, mensajería y gestión de inventario | Ionic · Angular · Firebase |
 | 🌐 **Plataforma Web SSP** | Sistema web con calificaciones, inventario y mensajería en tiempo real | Django · Firebase |
-| 🔌 **Monitor IoT** | Sistema de monitoreo de cercos eléctricos vía MQTT con alertas en tiempo real | Node-RED · MQTT |
+| 🔌 **Monitor IoT Cercos** | Monitoreo de cercos eléctricos vía MQTT con alertas en tiempo real — desplegado en Raspberry Pi | Node-RED · MQTT · Linux |
 
 ---
 
@@ -71,7 +70,8 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=schwarmak-dev&hide_border=true&background=00000000&ring=6e93d6&fire=6e93d6&currStreakLabel=aaaaaa&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=ffffff&dates=888888&stroke=6e93d6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=schwarmak-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=6e93d6&text_color=cccccc&langs_count=6)
+
 </div>
 
 ---
