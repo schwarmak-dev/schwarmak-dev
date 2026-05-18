@@ -16,7 +16,7 @@
 
 - 🎓 Estudiando **Informática y Telecomunicaciones** en DUOC UC
 - 💼 Actualmente haciendo la práctica en **Servicios de Seguridad Privada SpA**
-- 🔭 Actualmente construyendo sistemas de inspección de equipos y monitoreo IoT
+- 🔭 Construyendo sistemas de inspección de equipos y monitoreo IoT
 - 🌱 Explorando **Node-RED**, **MQTT**, y automatización industrial
 - ⚡ Me gusta conectar el mundo físico con el software
 
