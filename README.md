@@ -53,7 +53,21 @@
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=gnometerminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
+
+## Herramientas OSINT & Seguridad
+ 
+> Conocimiento orientado a reconocimiento ético, y análisis de fuentes abiertas.
 ---
+| Categoría | Herramientas |
+|---|---|
+| 🔍 **Reconocimiento & OSINT** | Mr. Holmes · Sherlock  · Maltego |
+| 🔐 **Análisis de contraseñas** | John the Ripper · Hashcat · Hydra |
+| 🌐 **Escaneo de redes** | Nmap · Netdiscover |
+| 📡 **Análisis de tráfico** | Wireshark 
+| 💻 **Explotación & Pentesting** | Metasploit · SQLmap|
+| 🕵️ **Búsqueda en fuentes abiertas** |  Censys · Google Dorks · OSINT Framework |
+| 🐧 **Entornos** | CachyOS  · Linux Mint  ·  Kali Linux  ·  Debian  ·  Ubuntu  ·  Ubuntu Server  |
+
 
 ## Proyectos destacados
 
@@ -63,7 +77,6 @@
 | 📱 **App Técnicos** | App móvil para técnicos de terreno — órdenes de trabajo, mensajería y gestión de inventario | Ionic · Angular · Firebase |
 | 🌐 **Plataforma Web SSP** | Sistema web con calificaciones, inventario y mensajería en tiempo real | Django · Firebase |
 | 🔌 **Monitor IoT Cercos** | Monitoreo de cercos eléctricos vía MQTT con alertas en tiempo real — desplegado en Raspberry Pi | Node-RED · MQTT · Linux |
-
 ---
 
 
@@ -71,7 +84,7 @@
 
 <div align="center">
 
-*"El código es solo la herramienta — lo importante es el problema que resuelve."*
+*"El código es solo la herramienta — lo importante es el la solucion que viene en camino ejale"*
 
 📍 Concepción, Chile &nbsp;·&nbsp; 💬 Escríbeme si tienes un proyecto en mente
 
