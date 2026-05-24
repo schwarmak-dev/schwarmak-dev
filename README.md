@@ -18,7 +18,7 @@
 - 🔭 Construyendo sistemas de inspección de equipos y monitoreo IoT
 - 🌱 Explorando **Node-RED**, **MQTT**, y automatización industrial
 - ⚡ Me gusta conectar el mundo físico con el otro Umbral
-- 👨‍💻 Trabajando Indpeentiente con otros proyectos que iré publicando aca, y freelancer.
+- 👨‍💻 Trabajando independiente con otros proyectos que iré publicando aca, y freelancer.
 ---
 
 ## Stack tecnológico
