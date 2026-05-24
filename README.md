@@ -18,7 +18,7 @@
 - 🔭 Construyendo sistemas de inspección de equipos y monitoreo IoT
 - 🌱 Explorando **Node-RED**, **MQTT**, y automatización industrial
 - ⚡ Me gusta conectar el mundo físico con el otro Umbral
-
+- 👨‍💻 Trabajando Indpeentiente con otros proyectos que iré publicando aca, y freelancer.
 ---
 
 ## Stack tecnológico
@@ -53,6 +53,12 @@
 ![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=gnometerminal&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
+
+**Mobile**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
 
 ## Herramientas OSINT & Seguridad
  
