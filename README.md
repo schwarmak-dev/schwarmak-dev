@@ -77,6 +77,7 @@
 | 📱 **App Técnicos** | App móvil para técnicos de terreno — órdenes de trabajo, mensajería y gestión de inventario | Ionic · Angular · Firebase |
 | 🌐 **Plataforma Web SSP** | Sistema web con calificaciones, inventario y mensajería en tiempo real | Django · Firebase |
 | 🔌 **Monitor IoT Cercos** | Monitoreo de cercos eléctricos vía MQTT con alertas en tiempo real — desplegado en Raspberry Pi | Node-RED · MQTT · Linux |
+| 🕐 **Control de Horas** | App Android nativa para registro de horas de práctica — temporizador, dashboard, exportación PDF/CSV y modo offline real | Kotlin · Jetpack Compose · Room |
 ---
 
 
