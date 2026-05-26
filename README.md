@@ -67,12 +67,11 @@
 | Categoría | Herramientas |
 |---|---|
 | 🔍 **Reconocimiento & OSINT** | Mr. Holmes · Sherlock  · Maltego |
-| 🔐 **Análisis de contraseñas** | John the Ripper · Hashcat · Hydra |
+| 🔐 **Análisis de contraseñas** | John the Ripper 
 | 🌐 **Escaneo de redes** | Nmap · Netdiscover |
 | 📡 **Análisis de tráfico** | Wireshark 
-| 💻 **Explotación & Pentesting** | Metasploit · SQLmap|
 | 🕵️ **Búsqueda en fuentes abiertas** |  Censys · Google Dorks · OSINT Framework |
-| 🐧 **Entornos** | CachyOS  · Linux Mint  ·  Kali Linux  ·  Debian  ·  Ubuntu  ·  Ubuntu Server  |
+| 🐧 **Entornos** | CachyOS mi favorito · Linux Mint  ·  Kali Linux  ·  Debian  ·  Ubuntu  ·  Ubuntu Server  |
 
 
 ## Proyectos destacados
