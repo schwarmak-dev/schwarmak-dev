@@ -90,7 +90,7 @@
 
 <div align="center">
 
-*"El código es solo la herramienta — lo importante es el la solucion que viene en camino ejale"*
+*"El código es solo la herramienta — lo importante es el la solucion que viene en camino ejaleeee"*
 
 📍 Concepción, Chile &nbsp;·&nbsp; 💬 Escríbeme si tienes un proyecto en mente
 
