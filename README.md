@@ -2,7 +2,7 @@
 
 # Matías Schwarmak
 ### Developer · Concepción, Chile 🇨🇱
-*Estudiante de Informática y Telecomunicaciones — construyendo herramientas reales para problemas reales*
+*Estudiante de Informática del DuocUc — construyendo herramientas reales para problemas reales*
 
 [![GitHub followers](https://img.shields.io/github/followers/schwarmak-dev?label=Followers&style=flat-square&color=0e75b6)](https://github.com/schwarmak-dev)
 [![Profile views](https://komarev.com/ghpvc/?username=schwarmak-dev&style=flat-square&color=0e75b6)](https://github.com/schwarmak-dev)
