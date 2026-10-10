@@ -1,5 +1,98 @@
 <div align="center">
+# Matías Schwarmak
+### Developer · Concepción, Chile 🇨🇱
+*Computer Science student at DuocUc — building real tools for real problems*
 
+[![GitHub followers](https://img.shields.io/github/followers/schwarmak-dev?label=Followers&style=flat-square&color=0e75b6)](https://github.com/schwarmak-dev)
+[![Profile views](https://komarev.com/ghpvc/?username=schwarmak-dev&style=flat-square&color=0e75b6)](https://github.com/schwarmak-dev)
+
+</div>
+
+---
+
+> 🇪🇸 **¿Hablas español?** [Click aquí para la versión en español ↓](#versión-en-español)
+
+---
+
+## About me
+
+- 🎓 I am studying **Computer Science and Telecommunications** at Duoc UC
+- 💼 I am doing my internship at **Servicios de Seguridad Privada SpA**
+- 🔭 I am building equipment inspection systems and IoT monitoring
+- 🌱 I am learning **Node-RED**, **MQTT**, and industrial automation
+- ⚡ I like to connect the physical world with the digital one
+- 👨‍💻 I work alone on my own projects and I am a freelancer too
+
+---
+
+## Tech stack
+
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_SQL-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**IoT & Automation**
+
+![Node-RED](https://img.shields.io/badge/Node--RED-8F0000?style=flat-square&logo=node-red&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
+
+**Linux & DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SSH](https://img.shields.io/badge/SSH-4D4D4D?style=flat-square&logo=gnometerminal&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Mobile**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+
+## OSINT & Security Tools
+
+> I know how to do ethical reconnaissance and how to analyze open sources.
+---
+| Category | Tools |
+|---|---|
+| 🔍 **Reconnaissance & OSINT** | Mr. Holmes · Sherlock · Maltego |
+| 🔐 **Password analysis** | John the Ripper |
+| 🌐 **Network scanning** | Nmap · Netdiscover |
+| 📡 **Traffic analysis** | Wireshark |
+| 🕵️ **Open source search** | Censys · Google Dorks · OSINT Framework |
+| 🐧 **Environments** | CachyOS is my favorite · Linux Mint · Kali Linux · Debian · Ubuntu · Ubuntu Server |
+
+---
+
+## Featured projects
+# Versión en español
+
+<div align="center">
+
+| Project | Description | Stack |
+|---|---|---|
+| 🔒 **Formulario SSP** | Equipment inspection system for an industrial security company — roles, admin panel and ID generation | Node.js · Vanilla JS |
+| 📱 **App Técnicos** | Mobile app for field technicians — work orders, messaging and inventory management | Ionic · Angular · Firebase |
+| 🌐 **Plataforma Web SSP** | Web platform with ratings, inventory and real-time messaging | Django · Firebase |
+| 🔌 **Monitor IoT Cercos** | Electric fence monitoring via MQTT with real-time alerts — deployed on a Raspberry Pi | Node-RED · MQTT · Linux |
+| 🕐 **Control de Horas** | Native Android app to log internship hours — timer, dashboard, PDF/CSV export and a real offline mode | Kotlin · Jetpack Compose · Room |
+
+---
+---
 # Matías Schwarmak
 ### Developer · Concepción, Chile 🇨🇱
 *Estudiante de Informática del DuocUc — construyendo herramientas reales para problemas reales*
